@@ -15,6 +15,10 @@ Be sure to refer the contact to the press kit for [Infinite Dango Studios](https
 
 Feel free to tell the contact a bit about who you are and the work you personally contributed to the project, but this shouldn't take up the majority of the email.
 
+Be sure to include a link to the latest download of the game in the email. Including a link to the download makes it easier for the contact to download and play the game, rather than having to look around for the download page without direction. Also note that Ganbatte is a computer game that works on Windows, Mac, and Linux.
+
+At the end of the email, make sure to include something that encourages the contact to respond to the email. If you let the contact know that you would like them to get into contact with you then they are more likely to send a reply. It is also a good idea to thank the contact for taking the time to read the email as well.
+
 Once you have started contacting an individual or website, please let the rest of us know so that we don't accidentally contact them as well. Once we get more into the advertising process we will likely set up a system to keep track of who is contacting who.
 
 ## Social Media
