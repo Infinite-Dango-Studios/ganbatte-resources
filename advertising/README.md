@@ -11,7 +11,7 @@ When possible, it is best to see if a reviewer website has an individual who spe
 
 In terms of explaining Ganbatte you should take a look at [this article](http://www.pentadact.com/2012-03-17-gdc-talk-how-to-explain-your-game-to-an-asshole/) to get an idea of how to best go about explaining it.
 
-Be sure to refer the contact to the press kit for [Infinite Dango Studios](https://infinite-dango-studios.github.io/press_kit/) and [Ganbatte](https://infinite-dango-studios.github.io/press_kit/ganbatte/), as they are important resources that the contacts will likely find very helpful if they do decide to write about the game.
+Be sure to refer the contact to the press kit for [Infinite Dango Studios](https://infinite-dango-studios.github.io/press-kit/) and [Ganbatte](https://infinite-dango-studios.github.io/press-kit/ganbatte/), as they are important resources that the contacts will likely find very helpful if they do decide to write about the game.
 
 Feel free to tell the contact a bit about who you are and the work you personally contributed to the project, but this shouldn't take up the majority of the email.
 
