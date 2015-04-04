@@ -7,3 +7,4 @@ This is a repository that contains some of the resources used to help with the d
 ## Directories
 - advertising - Information and resources on advertising Ganbatte.
 - images - Important images for Ganbatte and Infinite Dango Studios such as logos and icons.
+- information - Information used in the development of Ganbatte.
