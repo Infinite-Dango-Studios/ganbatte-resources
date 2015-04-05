@@ -1,8 +1,8 @@
 # Advertising
 
 ## Tables
-- database_websites.csv - A list of databases of games and visual novels.
-- reviewer_websites.csv - A list of game review websites.
+- **database_websites.csv** - A list of databases of games and visual novels.
+- **reviewer_websites.csv** - A list of game review websites.
 
 ## Press Contacting Guide
 Before contacting any member of the press or any reviewer, be sure to look over [this link](http://buysomeindiegames.com/how-to-sell-your-game/how-to-write-a-press-release/) to get an idea of the basic necessities of all such contacts.
@@ -23,3 +23,5 @@ Once you have started contacting an individual or website, please let the rest o
 
 ## Social Media
 Using social media is an important part of advertising. Currently Ganbatte is being advertised through social media with Facebook, however we will probably need to branch out to other social media sites like Twitter and Reddit over time.
+
+More information on the social media aspect of the advertising of the game can be found in this repository's "social_media" directory.
